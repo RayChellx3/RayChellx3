@@ -17,7 +17,7 @@
 <div>
 <a href="https://github.com/RayChellx3">
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=RayChellx3&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img width="250" src="https://lh3.googleusercontent.com/mnHttoCjTp1VIQ4z_Wu81VCf4Gk5yhJ5NJNqKQQwscYMO27WGNM3MHoCZhT4QgdPUMBCcv0Dqnxjy3-Jj0uIBFNuagW5DgNtXVZVd9kgydzeByDTblunxj6yOjJ611TEjI-Ii3N5pKDiV5TgllmXNtjexzhO9mq21UB3ArUcIEIlJS208B35kL5bNF4t32OTBVdoI-RSo-ZRUqiFYzxoLRBmqWfyjt058yGYnn55lJ90-BlSGDzt8l1D_Iw3WoG1oXjiHmlFF5gEstxbVE7Sr3ygl2sNsAF-UXzC5VBWmXtpDXil96ijH7D1YPxgl8QKU64SaznwFyR3BkE87K2fw6IIwQUuo5S3WLkndonTwkrX-Qint2zd0IhAxF530v3cMHdIvXA_kAtdDNtvAvPGx7oeoAg_d7sJrjKaExELM-ofG9OkXCRiJ1bpcOotXRdJb7sZZXZu1Yt_mTMB7wybrhpN8KNeNqqfzXKzr-8xvFd_IWkWzxUpzo1FcGR6SNoxiC0Ez_S5GlaVlRtTAbvCiwktUgoPpPgs1tvLIjwgfdhSdfMsJDhxBjHrOWIk8S2aE3O7ZB7OFTQegIP2_F8afp2hGL8-UDCh7_0SUddBonnhUZAxjMBl8iIGhgKEo8Tbp7qKB84xISPnEkAoXqoow1FNuB5PYgM6KQo3_Hf0qgKy_DxfDzzUCNS2iOvyep_DB4H4s8YPH30ZG-rodtMzr74y5ecrWkXjIye_2cCVmcROO8pxySQpnNYLYVV6axD3lU6rzY29DqjSMn8UUEZuDBF8XB8Fksc=s600-no?authuser=1"/>
+<img width="250" src="https://lh3.googleusercontent.com/pw/AL9nZEUH5Zm0pX-SjIfuoprRZIlKFmcfOfj0YxGg2rTPL5TVN7hazaF-38O3U8WJ_LtbfARAQCSb2H-IHWpiYqozLi1i_DJpm6Jt90UqmEb7LH7Kb_vcxnvjLv1tbBNs0gigTB0oDRHr0NRAoGO3Ak6eY9E=s600-no?authuser=0"/>
 </div>
 
 ### <div>#Segue Nóis!</div>  
